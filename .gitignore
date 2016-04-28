@@ -1,0 +1,4 @@
+bin/
+build/
+.kdev4/
+.directory
